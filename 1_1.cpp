@@ -4,7 +4,7 @@ using namespace std;
 class BankAccount {
 private:
     char accountHolder[50];
-    char accountNumber[20];
+    char accountNumber[30];
     double balance;
 
 public:
