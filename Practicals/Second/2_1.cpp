@@ -79,5 +79,7 @@ int main()
     cout << "Area: " << rect2.area() << endl;
     cout << "Perimeter: " << rect2.perimeter() << endl;
 
+    cout<<"Aryan Parikh"<<"\n"<<"24ce070"<<endl;
+
     return 0;
 }
