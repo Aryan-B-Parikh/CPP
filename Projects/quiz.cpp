@@ -20,7 +20,7 @@ int main() {
         {"1. Yamuna", "2. Ganga", "3. Krishna", "4. Godavari"}
     };
 
-    int answers[5] = {2, 2, 3, 3, 2}; // correct options (1-indexed)
+    int answers[5] = {2, 2, 3, 3, 2};
     int score = 0;
     int userAnswer;
 
